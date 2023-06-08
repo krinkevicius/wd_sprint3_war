@@ -1,0 +1,13 @@
+tag,question,answers,status,answered,shown
+oq,"What is the meaning of life, the universe and everything?",['Number 42'],True,10,14
+mc,What is the capital of Lithuania?,"['Vilnius', 'Riga']",True,20,25
+mc,What is the capital of Sweden?,"['Stockholm', 'Oslo', 'Riga', 'Vilnius']",True,18,23
+mc,What is the capital of Latvia?,"['Riga', 'Vilnius']",True,17,20
+mc,What is the capital of Estonia?,"['Tallin', 'Oslo']",True,12,12
+mc,What is capital of Norway?,"['Oslo', 'Helsinki', 'Riga']",False,3,3
+mc,What is the capital of Albania?,"['Tirana', 'London']",False,4,9
+mc,What is the capital of Slovakia?,"['Bratislava', 'Budapest', 'Warsaw']",False,4,4
+oq,What's the age mentioned in Blink182 song What's my age again?,['23'],False,1,6
+oq,What is love?,"[""Baby don't hurt me""]",False,0,0
+mc,Never gonna..?,"['All other answers are correct', 'Give you up', 'Let you down', 'Run around and dessert you', 'Make you cry', 'Say goodbye', 'Tell a lie and hurt you']",True,8,9
+mc,What is capital of France?,"['Paris', 'Berlin', 'London']",True,7,7
